@@ -25,6 +25,6 @@ git commit -m "Добавил 5 стилей"
 
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
-git remote add origin https://github.com/ВАШ_ЛОГИН/my-git-cheatsheet.git
+git remote add origin https://github.com/m89091310921-spec/my-git-cheatsheet.git
 git push -u origin main
 ```
